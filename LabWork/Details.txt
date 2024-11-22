@@ -1,0 +1,3 @@
+Cybersecurity Basics
+Educational Purpose: Provides foundational knowledge of cybersecurity threats, tools, and best practices for securing networks and data.
+Outcome: Learn how to identify and mitigate security vulnerabilities, essential for IT professionals and beginners in cybersecurity.
